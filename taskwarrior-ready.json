@@ -1,0 +1,6 @@
+{
+  "name": "Top 5 Actionable Taskwarrior Tasks",
+  "description": "Display first five tasks meeting the 'ready' filter. You might need to adjust the filter settings in Taskwarrior to get the desired view. Widget based on Upcoming-iCal-Events by Connor Beardsmore.",
+  "author": "Marek Kowalczyk",
+  "email": "mko1971@gmail.com"
+}
